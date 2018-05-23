@@ -1,4 +1,5 @@
 FROM node:8
+# FROM node:8-alpine
 
 ENV HOST localhost
 ENV PORT 3000
